@@ -1,0 +1,117 @@
+/* борьба с администрацией и попытками редактировать мое CSS */
+.vooovooolooolooo {
+height: 1px!important;
+width: 1px!important;
+display: none!important;
+}
+.fa-thumbs-up {
+color: #20e9ff!important;
+}
+.like-num {
+background-color: #20e9ff!important;
+}
+.avatar-lg {
+  -webkit-filter: contrast(175%);
+  filter: contrast(175%);
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  border-radius: 90px;
+  border: 4px solid;
+  border-color: white;
+}
+.avatar-lg:hover, .avatar-lg:focus, .avatar-lg:active {
+  -webkit-filter: contrast(100%);
+  filter: contrast(100%);
+  -webkit-transform: translateX(4.05em);
+  transform: translateX(4.05em);
+}
+.footer { background-color: #333333a3; }
+.right-block {
+display: none;
+}
+.meta-info span strong {
+    color: #0a99ed!important;
+}
+.body-bg-8 { background: url("https://i.pinimg.com/originals/d6/11/31/d61131b7e94061e004e97e578b43583c.jpg") no-repeat fixed; background-size: cover; }
+.content .post .testimonial{ background: rgba(6, 10, 14, 0.85) !important; }
+.content.bg-base-img { background: rgba(6, 10, 14, 0.55)!important; }
+.content .post { background: rgba(6, 10, 14, 0.60); }
+.content .post .testimonial{ background: rgba(6, 10, 14, 0.50) !important; } 
+.content .post .wp-block { background: rgba(6, 10, 14, 0.60); }
+.content .info-list .row { background: rgba(6, 10, 14, 0.40); }
+.col-sm-4 {
+background: rgba(6, 10, 14, 0.55): 
+}
+.content .info-list .row {
+background: rgba(6, 10, 14, 0.35);
+}
+.wp-block-body ..content .info-list .item {
+color: (white);
+}
+.shadow-5 {
+    background: rgba(6, 10, 14, 0.80) !important;
+}
+.sidebar {
+    rgba(6, 10, 14, 0.75) !important;
+    padding: 15px;
+}
+.sidebar .default {
+    background: rgba(6, 10, 14, 0.60) !important;
+}
+.testimonial .wp-block-body .col-md-8 {
+    width: 100%;
+}
+.content .info-list .row {
+    background: rgba(6, 10, 14, 0.55) !important;
+}
+.info-list {
+    background: none !important;
+    -webkit-box-shadow: 255 255 5px 0 #232228!important;
+    -moz-box-shadow: 255 255 5px 0 #232228!important;
+    box-shadow: 255 255 5px 0 #232228!important;
+	color: white;
+}
+p { line-height: 25px; margin-bottom: 8px; color: white; }
+
+.shadow-5 { box-shadow: 0px 0px 0px 2px #FFFFFF!important; } 
+.bg-base-img { background: rgba(6, 10, 14, 0.60); }
+.panel-group .panel {   border-radius: 0;     border-color: rgba(0,0,0,0); }
+.panel {     border-radius: 0px;     background-color: rgba(0,0,0,0); }
+.panel-group .panel-heading a {     font-weight: normal;     color: #FFFFFF; }
+.panel-group .panel-heading {     padding: 14px 15px;     position: relative;     background: #f8efe8; }
+.panel-default > .panel-heading {     border-color: rgba(0,0,0,0);     background: rgba(0,0,0,0); }
+.content .post .wp-block { color: #FFFFFF;  font-family: 'cursive'; font-size: 16px }
+.wp-block.article.post .article-title  { color: #FFFFFF;  font-family: 'cursive'; font-size: 40px; }
+img.avatar-sm-entity.img-responsive {
+-webkit-box-shadow: 4px 3px 5px 0px rgba(6, 10, 14, 0.60);
+-moz-box-shadow: 4px 3px 5px 0px rgba(6, 10, 14, 0.60);
+box-shadow: 4px 3px 5px 0px rgba(6, 10, 14, 0.60);
+margin: 10px;}
+.redactor-editor p { color: black!important; }
+.col-md-9 {width: 100%;}
+
+.col-sm-9 {
+    color: rgba(255, 255, 255, 0.92) !important;
+}
+.col-sm-3 {
+    color: rgba(255, 255, 255, 0.92);
+}
+.col-sm-12 {
+   color: rgba(255, 255, 255, 0.92);
+}
+.ribbon-left.red {
+    background: #d906f6; /* Old Browsers */
+    background: -webkit-linear-gradient(left,#d906f6,#e91b23); /*Safari 5.1-6*/
+    background: -o-linear-gradient(left,#d906f6,#e91b23); /*Opera 11.1-12*/
+    background: -moz-linear-gradient(left,#d906f6,#e91b23); /*Fx 3.6-15*/
+    background: linear-gradient(to right, #d906f6, #e91b23); /*Standard*/
+    color: #FFF!important;
+    border-left: 5px solid #d906f5!important;
+}
