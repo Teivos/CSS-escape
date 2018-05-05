@@ -1,0 +1,4 @@
+.avatar-lg:hover:after, .avatar-lg:focus:after, .avatar-lg:active:after {
+  content: url("https://i.pinimg.com/originals/d6/11/31/d61131b7e94061e004e97e578b43583c.jpg");
+  background: url('https://i.pinimg.com/originals/d6/11/31/d61131b7e94061e004e97e578b43583c.jpg');
+}
